@@ -77,10 +77,6 @@ jupyter
 - Incorporate actual diagnosis/claims history if available.
 - Model calibration specifically for the high-cost tail, where insurers care most about accuracy.
 
-## Data Source & License
+## Data Source
 
 Dataset commonly distributed as a companion to *Machine Learning with R* (Brett Lantz); used here for educational/portfolio purposes.
-
-## License
-
-MIT
